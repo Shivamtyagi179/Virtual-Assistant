@@ -125,9 +125,11 @@ Database	MongoDB
 Voice System	Web Speech API
 
 
+---
 
 📂 Project Structure
 
+<img width="690" height="451" alt="image" src="https://github.com/user-attachments/assets/eb63158a-4a65-45e1-933c-5401522097ff" />
 
 
 ---
