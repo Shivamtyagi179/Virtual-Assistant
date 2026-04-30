@@ -39,7 +39,7 @@ Conversational interaction 💬
 
 🔗 Try it here:
 
-https://lnkd.in/d5pGcZFr
+https://ai-virtual-assistant-8yqf.onrender.com/
 
 ---
 
